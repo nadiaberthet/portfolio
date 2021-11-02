@@ -55,13 +55,13 @@ params:
 
 # profile-mode
     profileMode:
-        enabled: false # needs to be explicitly set
-        title: ExampleSite
-        subtitle: "This is subtitle"
-        imageUrl: "<img location>"
+        enabled: true # needs to be explicitly set
+        title: Hi, I'm Nadia Berthet
+        subtitle: "Voici mon portefolio"
+        imageUrl: "https://avatars.githubusercontent.com/u/64786040?s=400&v=4"
         imageWidth: 120
         imageHeight: 120
-        imageTitle: my image
+        imageTitle: It's-a me!
         buttons:
             - name: Posts
               url: posts
@@ -75,11 +75,11 @@ params:
 
     socialIcons:
         - name: twitter
-          url: "https://twitter.com/"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
+          url: "https://twitter.com/nadiaberthet"
+        - name: instagram
+          url: "https://instagram.com"
         - name: github
-          url: "https://github.com/"
+          url: "https://github.com/nadiaberthet"
 
     analytics:
         google:
