@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: https://nadiaberthet.com/
 languageCode: en-us
-title: My New Hugo Site
+title: Nadia Berthet Portfolio
 theme: "PaperMod"
 
 enableRobotsTXT: true
